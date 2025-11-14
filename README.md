@@ -17,8 +17,9 @@ It includes score evaluation, Ace adjustment, dealer rules, and robust user inpu
 
 ⸻⸻
 
-Features
-	•	Deal and calculate card values
+## Features
+
+ •	Deal and calculate card values
 	•	Automatic Ace conversion (11 → 1 when needed)
 	•	Dealer draws until reaching 17
 	•	Blackjack detection
@@ -38,7 +39,7 @@ Features
 ```bash
 python main.py
 
-⸻
+⸻⸻
 
 Author
 
