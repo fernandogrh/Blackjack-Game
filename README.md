@@ -29,7 +29,7 @@ It includes score evaluation, Ace adjustment, dealer rules, and robust user inpu
 
 ⸻⸻
 
-### Project Structure
+## Project Structure
 - `main.py` — contains the full Blackjack game logic
 
 ⸻⸻
