@@ -41,7 +41,7 @@ python main.py
 
 ⸻⸻
 
-Author
+## Author
 
 Fernando Ramirez
 Building real-world Python projects through the “100 Days of Python” course and steadily developing strong software fundamentals.
