@@ -36,7 +36,6 @@ It includes score evaluation, Ace adjustment, dealer rules, and robust user inpu
 
 ## How to Run
 
-```bash
 python main.py
 
 ⸻⸻
